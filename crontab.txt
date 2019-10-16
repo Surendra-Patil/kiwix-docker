@@ -1,0 +1,1 @@
+*/2 * * * * /kiwix-serve /home/wikipedia.zim > /var/log/mylog.log
